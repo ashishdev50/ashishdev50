@@ -7,7 +7,7 @@ Development, Application Development and Sloving DSA & Algo Problem.
 
 Stnce 2021 I've been living and breathng with developing and coding. 
 
-![Ashish Charde](https://user-images.githubusercontent.com/98746402/176954415-87d8c39c-aaa3-4149-9f31-098958b77902.png)
+![1](https://user-images.githubusercontent.com/98746402/190363348-9d04ee18-09e5-43b9-966b-d691a2b25354.png)
 
 <!---
 ashishdev50/ashishdev50 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
